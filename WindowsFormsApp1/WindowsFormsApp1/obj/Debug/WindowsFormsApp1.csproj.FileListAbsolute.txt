@@ -1,0 +1,13 @@
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAmarelo.resources
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAzul.resources
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormVermelho.resources
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\AppExemploMenu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
